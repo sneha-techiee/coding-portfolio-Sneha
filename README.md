@@ -6,7 +6,11 @@ Welcome to my GitHub portfolio where I’ve uploaded my C and C++ practice codes
 
 ## 🔗 Repository Links
 
-- 🔹
+- 🔹sneha-techiee/cpp-projects-sneha
+sneha-techiee/cpp-practice-codes-Sneha
+sneha-techiee/mini-projects-c-Sneha
+
+sneha-techiee/c-practice-codes-Sneha
 
  
 Each repo contains separate files, programs, and projects related to the language mentioned.
